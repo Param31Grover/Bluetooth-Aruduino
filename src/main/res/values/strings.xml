@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cortex_Part1</string>
+    <string-array name="Finger">
+
+        <item>Index</item>
+        <item>Middle</item>
+        <item>Ring</item>
+        <item>Pinky</item>
+        <item>Thumb</item>
+    </string-array>
+</resources>
